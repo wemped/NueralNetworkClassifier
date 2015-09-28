@@ -47,3 +47,19 @@ Example : N = 3, D = 4
 * each line has C floating point values, delimited by spaces (C is the output dimension)
 * no assumption is made about the number of decimal places
 * Can be either a *one-hot vector* (using classification) or a *floating point* (using regression) 
+
+Example : N = 3, C =3
+
+0 1 0
+
+1 0 0
+
+1 0 0
+
+*OR*
+
+0.93 0.57 0.01
+
+0.23 0.00 0.66
+
+0.00 1.00 0.00
